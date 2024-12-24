@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+# WebStorm/IntelliJ IDEA
+.idea/
+*.iml
+
